@@ -61,9 +61,9 @@ Calendar App, Image Gallery, Music Player
 https://github.com/Piyula/Frontend-Development
 
 ---
-###
+
 <h3 align="left">🛠 Languages & Tools</h3>
-###
+
 <div align="left">
   <strong>Languages:</strong><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"/>
@@ -75,20 +75,20 @@ https://github.com/Piyula/Frontend-Development
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="js logo"/>
 </div>
-###
+<br>
 <div align="left">
   <strong>Frameworks & Libraries:</strong><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"/>
  
 </div>
-###
+<br>
 <div align="left">
   <strong>Databases:</strong><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"/>
 </div>
-###
+<br>
 <div align="left">
   <strong>Tools & Platforms:</strong><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>
@@ -106,6 +106,17 @@ https://github.com/Piyula/Frontend-Development
 <h3 align="left">🔥 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Piyula&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div> 
+  <!-- GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=Piyula&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub streak graph" />
+  
+  <br><br>
+
+  <!-- GitHub Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Piyula&show_icons=true&theme=dark&hide_border=false" height="180" alt="GitHub stats" />
+
+  <br><br>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyula&layout=compact&theme=dark&hide_border=false" height="130" alt="Top languages" />
+</div>
 ###
