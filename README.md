@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://github.com/Piyula/Piyula/blob/main/3sDaYbHuv8ypgZCcjG.gif" />
+  <img height="230" src="https://github.com/Piyula/Piyula/blob/main/3sDaYbHuv8ypgZCcjG.gif" />
 </div>
 <br>
 
@@ -42,23 +42,23 @@
 ✔ Collaborative CSR platform for beneficiary management, sponsorship tracking, and job allocation  
 ✔ Frontend (React) & Backend (Node.js, Express, MongoDB) development  
 ✔ Features JWT authentication, role-based dashboards, API Gateway, and real-time notifications  
-(https://github.com/Piyula/RiseTogether-Platform)
+https://github.com/Piyula/RiseTogether-Platform
 
 ### 📋 Task Status Tracker
 ✔ Real-time task management system with live updates  
 ✔ Built with Node.js, MongoDB, and Socket.IO  
-[https://github.com/Piyula/task-status-tracker]
+https://github.com/Piyula/task-status-tracker
 
 ### 🧹 Caretaker Management System
 ✔ Web application connecting clients with caretakers  
 ✔ Features registration, service booking, leave management, and Stripe payment integration  
 ✔ Technologies: HTML, CSS, JavaScript, PHP, MySQL  
-[https://github.com/Thanu-Venu/caretaker-management-system]
+[=https://github.com/Thanu-Venu/caretaker-management-system
 
 ### 🎨 Frontend Projects
 ✔ UI/UX-focused individual projects demonstrating dynamic web interfaces  
 - Calendar App, Image Gallery, Music Player  
-[https://github.com/Piyula/Frontend-Development]
+https://github.com/Piyula/Frontend-Development
 
 ---
 
@@ -80,7 +80,7 @@
   <strong>Frameworks & Libraries:</strong><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"/>
+ 
 </div>
 <br>
 <div align="left">
@@ -106,6 +106,5 @@
 <h3 align="left">🔥 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Piyula&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Piyula&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub Streak Stats" />
 </div>
-
