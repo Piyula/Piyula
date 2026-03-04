@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://github.com/Piyula/Piyula/blob/main/3sDaYbHuv8ypgZCcjG.gif" />
+  <img height="200" src="https://github.com/Piyula/Piyula/blob/main/3sDaYbHuv8ypgZCcjG.gif" />
 </div>
 <br>
 
@@ -30,7 +30,8 @@
 🎓 Second-year Computer Science undergraduate at UCSC  
 💡 Interested in Software Engineering, Full Stack Web Development & UI/UX Design  
 🚀 Passionate about building practical applications and learning modern technologies  
-⚡ Hobbies: Reading 📚 | Coding 💻 | Music 🎵
+  <br>
+⚡ Hobbies: Sports 📚 | Coding 💻 | Music 🎵
 </p>
 
 ---
@@ -41,23 +42,23 @@
 ✔ Collaborative CSR platform for beneficiary management, sponsorship tracking, and job allocation  
 ✔ Frontend (React) & Backend (Node.js, Express, MongoDB) development  
 ✔ Features JWT authentication, role-based dashboards, API Gateway, and real-time notifications  
-[GitHub](https://github.com/Piyula/RiseTogether-Platform)
+(https://github.com/Piyula/RiseTogether-Platform)
 
 ### 📋 Task Status Tracker
 ✔ Real-time task management system with live updates  
 ✔ Built with Node.js, MongoDB, and Socket.IO  
-[GitHub](https://github.com/Piyula/task-status-tracker)
+[https://github.com/Piyula/task-status-tracker]
 
 ### 🧹 Caretaker Management System
 ✔ Web application connecting clients with caretakers  
 ✔ Features registration, service booking, leave management, and Stripe payment integration  
 ✔ Technologies: HTML, CSS, JavaScript, PHP, MySQL  
-[GitHub](https://github.com/Thanu-Venu/caretaker-management-system)
+[https://github.com/Thanu-Venu/caretaker-management-system]
 
 ### 🎨 Frontend Projects
 ✔ UI/UX-focused individual projects demonstrating dynamic web interfaces  
 - Calendar App, Image Gallery, Music Player  
-[GitHub](https://github.com/Piyula/Frontend-Development)
+[https://github.com/Piyula/Frontend-Development]
 
 ---
 
@@ -74,20 +75,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="js logo"/>
 </div>
-
+<br>
 <div align="left">
   <strong>Frameworks & Libraries:</strong><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"/>
 </div>
-
+<br>
 <div align="left">
   <strong>Databases:</strong><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"/>
 </div>
-
+<br>
 <div align="left">
   <strong>Tools & Platforms:</strong><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>
@@ -105,5 +106,6 @@
 <h3 align="left">🔥 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Piyula&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub streak graph"/>
+  <img src="https://streak-stats.demolab.com?user=Piyula&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
