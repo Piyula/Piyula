@@ -108,15 +108,5 @@ https://github.com/Piyula/Frontend-Development
 <div align="center">
   <!-- GitHub Streak Stats -->
   <img src="https://streak-stats.demolab.com?user=Piyula&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub streak graph" />
-  
-  <br><br>
-
-  <!-- GitHub Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Piyula&show_icons=true&theme=dark&hide_border=false" height="180" alt="GitHub stats" />
-
-  <br><br>
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyula&layout=compact&theme=dark&hide_border=false" height="130" alt="Top languages" />
+ 
 </div>
-###
