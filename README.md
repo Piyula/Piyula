@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="230" src="https://github.com/Piyula/Piyula/blob/main/3sDaYbHuv8ypgZCcjG.gif" />
+  <img height="200" src="https://github.com/Piyula/Piyula/blob/main/3sDaYbHuv8ypgZCcjG.gif" />
 </div>
 <br>
 
@@ -106,7 +106,6 @@ https://github.com/Piyula/Frontend-Development
 <h3 align="left">🔥 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Satheesan-R&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
+  <img src="https://streak-stats.demolab.com?user=Piyula&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div> 
 ###
