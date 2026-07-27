@@ -44,10 +44,11 @@
 ✔ Features JWT authentication, role-based dashboards, API Gateway, and real-time notifications  
 https://github.com/Piyula/RiseTogether-Platform
 
-### 📋 Task Status Tracker
-✔ Real-time task management system with live updates  
-✔ Built with Node.js, MongoDB, and Socket.IO  
-https://github.com/Piyula/task-status-tracker
+### 📋 Student Management System
+✔ full-stack Student Management System 
+✔ Features authentication (Admin & Student roles), CRUD operations, and efficient student record management through a responsive and user-friendly interface.
+✔ Built with MERN stack (MongoDB, Express.js, React, and Node.js)  
+https://github.com/Piyula/student-management-system
 
 ### 🧹 Caretaker Management System
 ✔ Web application connecting clients with caretakers  
@@ -59,6 +60,11 @@ https://github.com/Thanu-Venu/caretaker-management-system
 ✔ UI/UX-focused individual projects demonstrating dynamic web interfaces  
 Calendar App, Image Gallery, Music Player  
 https://github.com/Piyula/Frontend-Development
+
+### 📋 Task Status Tracker
+✔ Real-time task management system with live updates  
+✔ Built with Node.js, MongoDB, and Socket.IO  
+https://github.com/Piyula/task-status-tracker
 
 ---
 
